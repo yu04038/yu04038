@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true)    
-
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true)    
+ -->
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yu04038">
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={yu04038})](https://solved.ac/{yu04038})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={yu04038})](https://solved.ac/{yu04038})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={yu04038})](https://solved.ac/{yu04038})
