@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true" width="200" height="400">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu04038&theme=dracula&show_icons=true)    
  -->
-<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=yu04038">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yu04038">
 
 
 
